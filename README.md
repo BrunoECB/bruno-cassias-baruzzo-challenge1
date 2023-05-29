@@ -1,4 +1,4 @@
-# ChallengeIV
+# Challenge-I
 Desafio da semana IV no Programa de Bolsas da Compass UOL.
 Conteúdos: 
 - Java
